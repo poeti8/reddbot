@@ -1,0 +1,20 @@
+{
+  "name": "reddit-bot",
+  "version": "1.0.0",
+  "description": "Reddit grabber bot for Telegram messanger",
+  "main": "bot.js",
+  "dependencies": {
+    "telebot": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "telegram",
+    "bot"
+  ],
+  "author": "poeti8",
+  "license": "ISC"
+}
