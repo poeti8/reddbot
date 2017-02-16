@@ -1,8 +1,8 @@
 {
-  "name": "reddit-bot",
+  "name": "reddbot",
   "version": "1.0.0",
-  "description": "Reddit grabber bot for Telegram messanger",
-  "main": "bot.js",
+  "description": "A Telegram bot to get Reddit posts.",
+  "main": "index.js",
   "dependencies": {
     "telebot": "^1.0.7"
   },
@@ -16,5 +16,5 @@
     "bot"
   ],
   "author": "poeti8",
-  "license": "ISC"
+  "license": "Apache-2.0"
 }
